@@ -17,6 +17,6 @@
   
 ### 项目亮点：  
 解决从Kafka中消费数据时的漏消费、重复消费以及读取数据时的顺序问题。  
-
+  
 ### publisher-realtime——数据可视化模块  
 ### sparkStreaming-realtime——实时计算模块
